@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't being written to Firestore using the `set()` method. The `set()` call appeared successful, with no errors thrown, but the data wasn't appearing in the Firestore console.  The code used a simple structure and standard Firebase functions.
